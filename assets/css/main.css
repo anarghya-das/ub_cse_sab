@@ -3291,6 +3291,10 @@ input, select, textarea {
 
 	@media screen and (max-width: 480px) {
 
+		#titleBar .title {
+			font-size: 10px;
+		}
+
 		/* Icon */
 
 			.icon.major {
